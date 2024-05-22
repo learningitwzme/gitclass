@@ -1,4 +1,5 @@
 # bere Add readme file
-to remote
+# To remote git hub
+
 not now
 thanks for confirming
